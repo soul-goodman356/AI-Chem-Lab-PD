@@ -35,7 +35,7 @@ Outputs will be in `code/results/` (CSV + PNG).
 ## Data & Code Availability
 - Code: MIT/Apache-2.0 (choose one).  
 - Data: CC BY 4.0 (templates + de-identified demo).  
-- Git repo (placeholder): [https://github.com/YourOrg/AI-Chem-Lab-PD](https://github.com/soul-goodman356/AI-Chem-Lab-PD/)
+- Git repo (placeholder): [https://github.com/soul-goodman356/AI-Chem-Lab-PD](https://github.com/soul-goodman356/AI-Chem-Lab-PD/)
 
 ## Citation
 See `CITATION.cff` for citation metadata.
