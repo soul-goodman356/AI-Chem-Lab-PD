@@ -1,5 +1,5 @@
 
-# AI-Chem-Lab-PD — Reproducible Package (v1.0.0)
+# AI-Chem-Lab-PD — Reproducible Package (v1.0.3)
 
 > Minimal package for reproducing the tables and figures in the paper “AI as an Amplifier for Chemistry Lab Learning” (demo with simulated data).  
 > Date: 2025-08-19
