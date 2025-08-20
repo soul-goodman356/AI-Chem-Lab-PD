@@ -8,7 +8,7 @@
 
 AI-Chem-Lab-PD (Professional Development for AI in Chemistry Labs) is an open-source framework and dataset package designed to support chemistry teachers in integrating Artificial Intelligence (AI) into laboratory instruction.
 
-🎯 Purpose
+### 🎯 Purpose
 
 The project addresses three common barriers in AI-enhanced lab teaching:
 
@@ -20,7 +20,7 @@ Lack of Evaluation – limited evidence-based assessment of student learning out
 
 AI-Chem-Lab-PD provides a practical, reproducible, and evidence-based path from teacher professional development (PD) → classroom implementation → data-driven reflection.
 
-🧩 Key Features
+### 🧩 Key Features
 
 Training Toolkit: Micro-lesson design cards, rubrics, lesson blueprints, and environment self-checklists.
 
