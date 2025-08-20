@@ -1,0 +1,33 @@
+﻿File,Field,Meaning,Example
+summary_wide_cn.csv,表,表格来源（表1/表2/表3）,表1 稳定性与可复用性
+summary_wide_cn.csv,指标,测量指标,课堂故障率(%) / 切换时长(分钟) / …
+summary_wide_cn.csv,EG_T0_均值,实验组前测均值,
+summary_wide_cn.csv,EG_T0_SD,实验组前测标准差,
+summary_wide_cn.csv,EG_T2_均值,实验组后测均值,
+summary_wide_cn.csv,EG_T2_SD,实验组后测标准差,
+summary_wide_cn.csv,CG_T0_均值,对照组前测均值,
+summary_wide_cn.csv,CG_T0_SD,对照组前测标准差,
+summary_wide_cn.csv,CG_T2_均值,对照组后测均值,
+summary_wide_cn.csv,CG_T2_SD,对照组后测标准差,
+summary_tidy_cn.csv,表,表格来源（表1/表2/表3）,表2 学习成效
+summary_tidy_cn.csv,指标,测量指标,报告结构化评分 / 不确定度表达质量 / 概念小测
+summary_tidy_cn.csv,组别,EG=实验组；CG=对照组,EG / CG
+summary_tidy_cn.csv,时间,T0=前测；T2=后测,T0 / T2
+summary_tidy_cn.csv,均值,该组该时间点的均值,数值
+summary_tidy_cn.csv,SD,标准差,数值
+summary_wide_en.csv,Table,Source table,Table 1 Stability & Reusability
+summary_wide_en.csv,Metric,Measure,Failure Rate (%) / Switch Time (min) / …
+summary_wide_en.csv,EG_T0_Mean,Mean of EG at T0,
+summary_wide_en.csv,EG_T0_SD,SD of EG at T0,
+summary_wide_en.csv,EG_T2_Mean,Mean of EG at T2,
+summary_wide_en.csv,EG_T2_SD,SD of EG at T2,
+summary_wide_en.csv,CG_T0_Mean,Mean of CG at T0,
+summary_wide_en.csv,CG_T0_SD,SD of CG at T0,
+summary_wide_en.csv,CG_T2_Mean,Mean of CG at T2,
+summary_wide_en.csv,CG_T2_SD,SD of CG at T2,
+summary_tidy_en.csv,Table,Source table,Table 3 Teacher Growth
+summary_tidy_en.csv,Metric,Measure,TPACK / Peer Observation / Consistency
+summary_tidy_en.csv,Group,EG=Experimental; CG=Control,EG / CG
+summary_tidy_en.csv,Time,T0=Pre; T2=Post,T0 / T2
+summary_tidy_en.csv,Mean,Mean value,
+summary_tidy_en.csv,SD,Standard deviation,

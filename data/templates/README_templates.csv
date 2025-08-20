@@ -1,0 +1,8 @@
+﻿文件名/Name,字段/Field,含义 Meaning,示例 Example
+HPLC_标准曲线_template.csv,标准浓度(mg/L),配制的标准溶液浓度,10
+HPLC_标准曲线_template.csv,峰面积,响应变量，用于拟合,102340
+HPLC_未知样_template.csv,稀释倍数,样品稀释因子,5
+滴定_酸碱_template.csv,体积(mL),加入滴定剂的累计体积,10.00
+动力学_一级反应_template.csv,ln(C),自然对数，可公式自动计算,-2.91
+HPLC_StandardCurve_template.csv,StdConc_mg_L,Standard solution concentration,10
+Kinetics_FirstOrder_template.csv,invC,1/C for 2nd-order check,18.41
