@@ -6,7 +6,7 @@ authors:
   - family-names: "Zuo"
     given-names: "Zhaohong"
     affiliation: "Chongqing University, College of Chemistry and Chemical Engineering"
-version: "1.0.0"
+version: "1.0.3"
 date-released: "2025-08-19"
 repository-code: "https://github.com/YourOrg/AI-Chem-Lab-PD"
 url: "https://osf.io/ai-chem-lab/"
