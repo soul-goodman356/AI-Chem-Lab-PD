@@ -1,0 +1,4 @@
+﻿Metric,EG_T0_Mean,EG_T0_SD,EG_T2_Mean,EG_T2_SD,CG_T0_Mean,CG_T0_SD,CG_T2_Mean,CG_T2_SD
+Failure Rate (%),18.1,6.3,6.2,3.4,17.4,5.9,13.9,5.2
+Switch Time (min),6.7,1.5,2.3,0.9,6.5,1.6,5.2,1.4
+Script Reusability (%),31.0,9.2,82.4,11.5,28.6,8.5,36.1,10.3
