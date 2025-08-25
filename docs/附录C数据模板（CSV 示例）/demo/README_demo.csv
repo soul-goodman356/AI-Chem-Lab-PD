@@ -1,0 +1,9 @@
+﻿文件名/Name,用途/Purpose,记录单位/Units,备注/Notes
+HPLC_标准曲线_demo.csv,拟合峰面积-浓度标准曲线,"mg/L, min, a.u.",含6水平×3次重复
+HPLC_未知样_demo.csv,按标准曲线回代未知样浓度,"a.u., mg/L",CalcConc留空以便练习
+滴定_酸碱_demo.csv,绘制滴定曲线与等当点判定,"mL, pH",与指示剂终点比较
+动力学_一级反应_demo.csv,0/1/2级线性检验与拟合,"s, mol/L",已给出lnC与1/C
+HPLC_StandardCurve_demo.csv,English copy of 标准曲线,"mg/L, min, a.u.",
+HPLC_Unknown_demo.csv,English copy of 未知样,"a.u., mg/L",
+Titration_AcidBase_demo.csv,English copy of 滴定曲线,"mL, pH",
+Kinetics_FirstOrder_demo.csv,English copy of 动力学数据,"s, mol/L",
